@@ -1,0 +1,17 @@
+@mixin flex () {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2px;
+}
+/* cambia el flex direccion a column*/
+@mixin flex1 () {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2px;
+}

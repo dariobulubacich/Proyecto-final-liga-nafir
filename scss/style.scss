@@ -1,0 +1,28 @@
+@import "./utilities/mixin";
+@import "./utilities/mapas";
+
+
+
+@import "./base/reset";
+
+
+
+@import "./layout/main-index";
+@import "./layout/footer";
+@import "./layout/header-index";
+@import "./layout/main-gal";
+@import "./layout/main-torneos";
+@import "./layout/main-cont";
+@import "./layout/main-inst";
+
+
+
+
+@import "./components/navbar";
+
+@import "./layout/media_Q/media1024";
+@import "./layout/media_Q/media768";
+@import "./layout/media_Q/media425";
+
+
+

@@ -1,0 +1,18 @@
+header .i-e {
+    text-align: end;
+    a {
+        color: $color-letras;
+        }
+    .escudoind {
+        display: flex;
+        justify-content: center;
+        text-decoration: none;
+    }
+}
+.tituloind {
+    text-align: center;
+    font-family: "Radio Canada Big", sans-serif;
+    font-size: 35px;
+    text-decoration: none;
+    color: $color-letras;
+}

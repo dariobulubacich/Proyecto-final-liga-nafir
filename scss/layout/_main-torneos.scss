@@ -1,0 +1,35 @@
+.cont-torneo {
+    display: flex;
+    padding: 5px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    p {
+        font-family: "Roboto", sans-serif;
+        font-size: 35px;
+    }
+    .divmain {
+        flex: 20%;
+        p {
+            color: $color-letras;
+        }
+        }
+    .imgtor1 {
+        width: 30%;
+        }
+    .imgtor2 {
+        width: 20%;
+        border-radius: 150px;
+    }
+    .divmain3 {
+        p {
+            color: $color-letras;
+        }
+
+    }
+    .imgtor3 {
+        padding: 80px;
+        width: 45%;
+        border-radius: 185px;
+    }
+
+}
